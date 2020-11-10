@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Quota async="false" continueOnError="false" enabled="true" name="Quota-1">
+    <DisplayName>Quota-1</DisplayName>
+    <Properties/>
+    <Allow count="1"/>
+    <Interval>1</Interval>
+    <TimeUnit>minute</TimeUnit>
+</Quota>
