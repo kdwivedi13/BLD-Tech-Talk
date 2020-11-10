@@ -1,7 +1,7 @@
 # BLD-Tech-Talk
 BLD() Tech Talk
-# Edge UI 
-https://login.apigee.com/login
+# To create an account in APIGEE
+https://cloud.google.com/apigee and Click Try Free
 
 # Develper Portal 
 https://kdwivedi13-eval-kdwivedi.apigee.io/
